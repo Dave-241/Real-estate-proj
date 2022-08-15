@@ -5,7 +5,7 @@ import { Flex, Box, Text, Icon } from '@chakra-ui/react';
 import { BsFilter } from 'react-icons/bs';
 import Property from '../components/property';
 
-import { baseUrl, fetchApi } from '../utils/fetchApi';
+import { baseUrl, fetchApi } from '../utils/fetchapi';
 import noresult from '../assets/noresult.svg'
 import SearchFilters from '../components/searchfilters';
 
